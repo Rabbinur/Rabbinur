@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Md. Rabbinur Muktar
 
-<h3 align="center">Full Stack Developer • Next.js Specialist • SaaS & Enterprise Solutions Builder</h3>
+<h3 align="center">
+Frontend Developer Specialist | Full Stack Developer | Next.js Expert | SaaS & Enterprise Solutions Builder
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Digital+Products;SaaS+%26+Enterprise+Solutions" />
