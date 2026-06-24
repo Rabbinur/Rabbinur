@@ -71,7 +71,15 @@ Git • GitHub • Docker • Vercel • Render
 | 🤝 **Mustafiz Foundation**          | Social impact and community development platform                                      | https://www.mustafiz.org                              |
 
 ---
+## 📫 Let's Connect
 
+🌐 Portfolio: https://your-domain.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/md-rabbinur-muktar-89a364232/
+
+📧 Email:
+rabbinur345@gmail.com
 ## 🏅 Achievements
 
 * 🚀 Successfully delivered multiple production-ready applications
