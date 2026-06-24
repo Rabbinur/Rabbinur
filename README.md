@@ -5,7 +5,7 @@ Frontend Developer Specialist • Full Stack Developer • Next.js Expert • Sa
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Scalable+Digital+Products;SaaS+%26+Enterprise+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Frontend+Developer+Specialist;Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;SaaS+%26+Enterprise+Solutions+Builder;Building+Scalable+Digital+Products" />
 </p>
 
 <p align="center">
