@@ -32,6 +32,9 @@ I'm a Frontend Engineer and Full Stack Developer passionate about building scala
 * 🏗 Developing CRM, Healthcare, NGO & Enterprise Platforms
 * 🌍 Working with international clients and organizations
 * ⚡ Focused on performance, scalability, accessibility, and clean architecture
+* 🎨 Specialized in modern frontend architecture, responsive UI design, and interactive user experiences
+* ✨ Experienced with Framer Motion, AOS, and performance-focused frontend development
+
 
 > Building impactful digital products that solve real-world business problems.
 
