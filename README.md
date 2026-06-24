@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md. Rabbinur Muktar
 
 <h3 align="center">
-Frontend Developer Specialist | Full Stack Developer | Next.js Expert | SaaS & Enterprise Solutions Builder
+Frontend Developer Specialist • Full Stack Developer • Next.js Expert • SaaS & Enterprise Solutions Builder
 </h3>
 
 <p align="center">
@@ -26,13 +26,14 @@ Frontend Developer Specialist | Full Stack Developer | Next.js Expert | SaaS & E
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building scalable web applications, SaaS products, enterprise systems, and business automation solutions.
+I'm a Frontend Developer Specialist and Full Stack Developer passionate about building scalable web applications, SaaS products, enterprise systems, and business automation solutions.
 
-* 💻 Specialized in Next.js, React, TypeScript & Node.js
-* 🚀 Building production-grade web applications
-* 🏗 Developing SaaS, CRM, Healthcare & Enterprise Platforms
+* 🎨 Frontend Specialist focused on Next.js, React, TypeScript & Modern UI/UX
+* 💻 Full Stack Developer with experience in Node.js, Express.js & MongoDB
+* 🚀 Building production-grade web applications and SaaS products
+* 🏗 Developing CRM, Healthcare, NGO & Enterprise Platforms
 * 🌍 Working with international clients and organizations
-* ⚡ Focused on performance, scalability, and clean architecture
+* ⚡ Focused on performance, scalability, accessibility, and clean architecture
 
 > Building impactful digital products that solve real-world business problems.
 
