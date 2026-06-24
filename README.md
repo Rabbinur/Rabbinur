@@ -1,4 +1,4 @@
-# 👋 Md. Rabbinur Muktar
+# 👋 Hi, I'm Md. Rabbinur Muktar
 
 <h3 align="center">Full Stack Developer • Next.js Specialist • SaaS & Enterprise Solutions Builder</h3>
 
@@ -7,57 +7,91 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Rabbinur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/Rabbinur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-rabbinur-muktar-89a364232/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rabbinur345@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer specializing in Next.js & TypeScript
-* ⚡ Building SaaS, CRM, Healthcare & Enterprise Platforms
+I'm a Full Stack Developer passionate about building scalable web applications, SaaS products, enterprise systems, and business automation solutions.
+
+* 💻 Specialized in Next.js, React, TypeScript & Node.js
+* 🚀 Building production-grade web applications
+* 🏗 Developing SaaS, CRM, Healthcare & Enterprise Platforms
 * 🌍 Working with international clients and organizations
-* 🚀 Focused on scalability, performance & clean architecture
+* ⚡ Focused on performance, scalability, and clean architecture
+
+> Building impactful digital products that solve real-world business problems.
+
+---
 
 ## 💻 Tech Stack
 
-**Frontend:** Next.js • React • TypeScript • Redux Toolkit • Tailwind CSS
+### Frontend
 
-**Backend:** Node.js • Express.js • REST API • JWT
+Next.js • React • TypeScript • JavaScript • Redux Toolkit • Tailwind CSS • ShadCN UI
 
-**Database:** MongoDB • PostgreSQL • MySQL
+### Backend
 
-**DevOps:** Git • GitHub • Docker • Vercel • Render
+Node.js • Express.js • REST API • JWT Authentication
+
+### Database
+
+MongoDB • PostgreSQL • MySQL
+
+### DevOps & Tools
+
+Git • GitHub • Docker • Vercel • Render
+
+---
 
 ## 🚀 Featured Projects
 
-| Project                         | Description                                                |
-| ------------------------------- | ---------------------------------------------------------- |
-| ❤️ USAMARRY                     | Modern matrimony platform with subscriptions & matchmaking |
-| 🌱 Niloy Green Block            | Corporate website for sustainable construction solutions   |
-| 🏥 Grameen Health Care Services | Healthcare service & patient engagement platform           |
-| 🚗 EVA Autos                    | Automotive inventory and vehicle showcase platform         |
-| 📦 CRM Distributor System       | Enterprise CRM & distributor management solution           |
-| 🤝 Mustafiz Foundation          | Community development and social impact platform           |
+| Project                         | Description                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------- |
+| ❤️ USAMARRY                     | Modern matrimony platform with subscriptions, matchmaking and real-time communication |
+| 🌱 Niloy Green Block            | Corporate website for sustainable construction solutions                              |
+| 🏥 Grameen Health Care Services | Healthcare service and patient engagement platform                                    |
+| 🚗 EVA Autos                    | Automotive inventory and vehicle management platform                                  |
+| 📦 CRM Distributor System       | Enterprise CRM and distributor management solution                                    |
+| 🤝 Mustafiz Foundation          | Social impact and community development platform                                      |
+
+---
 
 ## 🏅 Achievements
 
-* 🚀 Delivered multiple production-grade applications
+* 🚀 Successfully delivered multiple production-ready applications
 * 🌍 Worked with international clients and organizations
-* 🏛 Built healthcare, NGO, and enterprise solutions
-* 💼 Developed CRM, SaaS, and business automation systems
+* 🏛 Developed healthcare, NGO, and enterprise solutions
+* 💼 Built CRM, SaaS, and business automation systems
 * ⚡ Specialized in high-performance Next.js applications
+* 📈 Developed scalable full-stack applications used by real businesses
+
+---
 
 ## 💼 Services
 
 * Full Stack Web Development
 * SaaS Application Development
-* CRM / ERP Solutions
+* CRM & ERP Solutions
 * Admin Dashboard Development
 * eCommerce Development
 * API Development & Integration
 * Performance Optimization
 * Technical Consulting
+
+---
 
 ## 🔥 Current Focus
 
@@ -68,6 +102,8 @@
 * Cloud Infrastructure
 * Scalable Backend Systems
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -75,26 +111,36 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbinur&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Rabbinur&theme=tokyonight" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rabbinur&theme=tokyonight&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rabbinur&theme=tokyonight&row=1&margin-w=15" />
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbinur&theme=tokyo-night" />
 
+---
+
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Rabbinur\&label=Profile+Views\&color=0e75b6\&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rabbinur&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-### ⭐ Building impactful digital products, one line of code at a time.
+### ⭐ Building scalable digital products, one line of code at a time.
