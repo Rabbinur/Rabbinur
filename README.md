@@ -58,14 +58,14 @@ Git • GitHub • Docker • Vercel • Render
 
 ## 🚀 Featured Projects
 
-| Project                         | Description                                                                           |
-| ------------------------------- | ------------------------------------------------------------------------------------- |
-| ❤️ USAMARRY                     | Modern matrimony platform with subscriptions, matchmaking and real-time communication |
-| 🌱 Niloy Green Block            | Corporate website for sustainable construction solutions                              |
-| 🏥 Grameen Health Care Services | Healthcare service and patient engagement platform                                    |
-| 🚗 EVA Autos                    | Automotive inventory and vehicle management platform                                  |
-| 📦 CRM Distributor System       | Enterprise CRM and distributor management solution                                    |
-| 🤝 Mustafiz Foundation          | Social impact and community development platform                                      |
+| Project                             | Description                                                                           | Live                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| ❤️ **USAMARRY**                     | Modern matrimony platform with subscriptions, matchmaking and real-time communication | https://www.usamarry.com                              |
+| 🌱 **Niloy Green Block**            | Corporate website for sustainable construction solutions                              | https://www.niloygreenblock.com                       |
+| 🏥 **Grameen Health Care Services** | Healthcare service and patient engagement platform                                    | https://www.grameenhealthcareservices.org             |
+| 🚗 **EVA Autos**                    | Automotive inventory and vehicle showcase platform                                    | https://eva-autos.vercel.app                          |
+| 📦 **CRM Distributor System**       | Enterprise CRM and distributor management solution                                    | https://crm-system-distributor-admin.vercel.app/login |
+| 🤝 **Mustafiz Foundation**          | Social impact and community development platform                                      | https://www.mustafiz.org                              |
 
 ---
 
