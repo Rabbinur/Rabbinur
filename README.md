@@ -36,16 +36,15 @@ I'm a Frontend Engineer and Full Stack Developer passionate about building scala
 > Building impactful digital products that solve real-world business problems.
 
 ---
-
 ## 💻 Tech Stack
 
 ### Frontend
 
-Next.js • React • TypeScript • JavaScript • Redux Toolkit • Tailwind CSS • ShadCN UI
+Next.js • React.js • TypeScript • Redux Toolkit • TanStack Query • Tailwind CSS • ShadCN UI • Material UI • Framer Motion • AOS
 
 ### Backend
 
-Node.js • Express.js • REST API • JWT Authentication
+Node.js • Express.js • MongoDB • Mongoose • REST APIs • GraphQL • JWT • Nodemailer
 
 ### Database
 
@@ -53,7 +52,11 @@ MongoDB • PostgreSQL • MySQL
 
 ### DevOps & Tools
 
-Git • GitHub • Docker • Vercel • Render
+Git • GitHub • Docker • Vercel • Render • Postman • Cloudinary • Figma • Lighthouse
+
+### Hosting & SEO
+
+Hostinger • Namecheap • Google Analytics • React Helmet • Technical SEO
 
 ---
 
