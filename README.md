@@ -120,12 +120,20 @@ Git • GitHub • Docker • Vercel • Render
 </p>
 
 ---
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Rabbinur&theme=tokyonight&row=1&margin-w=15" />
 </p>
+
+---
+
+## 🌍 Languages
+
+* 🇧🇩 **Bengali** — Native
+* 🇺🇸 **English** — Professional Working Proficiency
 
 ---
 
