@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Md. Rabbinur Muktar
 
 <h3 align="center">
-Frontend Developer Specialist • Full Stack Developer • Next.js Expert • SaaS & Enterprise Solutions Builder
+Frontend Engineer • Full Stack Developer • Next.js Expert • SaaS & Enterprise Solutions Builder
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Frontend+Developer+Specialist;Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;SaaS+%26+Enterprise+Solutions+Builder;Building+Scalable+Digital+Products" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=950&lines=Frontend+Engineer;Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;SaaS+%26+Enterprise+Solutions+Builder;Building+Scalable+Digital+Products" /> </p>
 
 <p align="center">
 <a href="https://github.com/Rabbinur">
@@ -26,9 +24,9 @@ Frontend Developer Specialist • Full Stack Developer • Next.js Expert • Sa
 
 ## 🚀 About Me
 
-I'm a Frontend Developer Specialist and Full Stack Developer passionate about building scalable web applications, SaaS products, enterprise systems, and business automation solutions.
+I'm a Frontend Engineer and Full Stack Developer passionate about building scalable web applications, SaaS products, enterprise systems, and business automation solutions.
 
-* 🎨 Frontend Specialist focused on Next.js, React, TypeScript & Modern UI/UX
+* 🎨 Frontend Engineer focused on Next.js, React, TypeScript & Modern UI/UX
 * 💻 Full Stack Developer with experience in Node.js, Express.js & MongoDB
 * 🚀 Building production-grade web applications and SaaS products
 * 🏗 Developing CRM, Healthcare, NGO & Enterprise Platforms
